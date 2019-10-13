@@ -9,10 +9,10 @@
     },
     {
       "id": 2,
-      "message": "kjkj",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-10-13T17:57:10.537Z"
+      "message": "Computer 1",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-10-13T20:40:38.929Z"
     }
   ],
   "techs": [
