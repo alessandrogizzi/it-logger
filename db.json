@@ -8,13 +8,6 @@
       "id": 1
     },
     {
-      "message": "Fix Hard Drive on PC 01",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-10-12T22:33:11.004Z",
-      "id": 2
-    },
-    {
       "message": "PC 01 is broken",
       "attention": false,
       "tech": "John Doe",
